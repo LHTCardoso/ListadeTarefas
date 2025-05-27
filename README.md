@@ -1,2 +1,2 @@
 # Lista deTarefas
-Lista de tarefas
+Lista de tarefas utilizando Vue.js
